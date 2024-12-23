@@ -9,7 +9,7 @@ int main(){
 	cin >> x >> y;
 	cout << "Before swapping:\n";
 	cout << "x = " << x << ", y = " << y << "\n";
-	mySwap (x,y);
+	mySwap(x,y);
 	cout << "After swapping:\n";
 	cout << "x = " << x << ", y = " << y << "\n";
 	
